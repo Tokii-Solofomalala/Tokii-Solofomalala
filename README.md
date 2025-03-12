@@ -1,16 +1,17 @@
-## Hi there 👋
+#👋Hi, I'm Itokiana Solofomalala
+**Software Developer | Cloud, Security & UX Enthusiast**
+--!
+- 🔭 I’m currently working on: **Database Managment, Cybersecurity Fundamentals**
+- 🌱 I’m currently learning : **AWS, Database Managment, Cloud Security**
+- 💡 Passionate about: **Cloud Computing, Full-Stack Software Engineering, Cybersecurity, and UI/UX Design**
 
-<!--
-**Tokii-Solofomalala/Tokii-Solofomalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫 **Contact Me:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/itokiana-solofomalala-752119241/)  
+🔗 [GitHub](https://github.com/Tokii-Solofomalala)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📌 **Pinned Projects:**  
+- 🚀 [Freight Transport Management System](https://github.com/Tokii-Solofomalala/freight-management)  
+- 🎮 [Interactive Ping Pong Game](https://github.com/Tokii-Solofomalala/pingpong-game)  
+- 🌦️ [Weather Forecast Web App](https://github.com/Tokii-Solofomalala/weather-app)  
 -->

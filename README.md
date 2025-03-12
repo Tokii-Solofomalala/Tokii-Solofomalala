@@ -11,7 +11,7 @@
 🔗 [GitHub](https://github.com/Tokii-Solofomalala)
 
 📌 **Pinned Projects:**  
-- 🚀 [Freight Transport Management System](https://github.com/Tokii-Solofomalala/freight-management)  
+- 🚀 [Freight Transport Management System](https://github.com/Tokii-Solofomalala/Transport-Manager-App)  
 - 🎮 [Interactive Ping Pong Game](https://github.com/Tokii-Solofomalala/pingpong-game)  
 - 🌦️ [Weather Forecast Web App](https://github.com/Tokii-Solofomalala/weather-app)  
 -->
